@@ -6,6 +6,7 @@ nav a {
     text-align: center;
     color: #d9c2a3;
     text-decoration: none;
+    padding: 35px;
 }
 #hero-msg h1 {
     text-align: center;
@@ -25,6 +26,10 @@ main section {
 }
 body {
     background-color: #fcfbfb;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color: rgba(20, 30, 13, .7)
@@ -37,11 +42,19 @@ nav a:hover {
     background-color: white;
     color: #d9c2a3;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .join {
     background-color: white;
     color: #d9c2a3;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover {
     background-color: white;
@@ -53,15 +66,22 @@ nav a:hover {
 }
 .msg {
     background-color: white;
+    line-height: 1.5em;
+    padding: 35px;
 }
 .msg h2 {
     color: #d9c2a3;
 }
 .msg p {
     color: #d9c2a3;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 footer {
     background-color: white;
+    padding: 25px 50px;
+    padding: 15px;
+    margin-top: 200px;
 }
 footer h3 {
     color: #d9c2a3;
@@ -78,6 +98,8 @@ footer p a:hover{
 }
 .home-title {
     color: #d9c2a3;
+    font-size: 2em;
+    margin-top: 10px;
 }
 h4 {
     color: #d9c2a3;
@@ -87,7 +109,36 @@ h4 {
 }
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img {
     width: 100%;
+}
+h1, h2, h3, h4{
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+/* font-family: 'Rock Salt', cursive; (Extra font)*/
+h2 {
+    margin: 0;
+}
+#logo_link {
+    padding-top: 5px;
+}
+.social img {
+    padding-top: 15px;
+}
+.rivers-card {
+    margin: 200px 0;
+}
+.camping-card {
+    margin: 200px 0;
+}
+.rapids-card {
+    margin: 200px;
+}
+.card-img {
+    border: 10px solid black;
+}
+main section img {
+    box-sizing: border-box;
 }
