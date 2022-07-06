@@ -240,3 +240,27 @@ nav {
     }
 }
 /* Page 2 */
+#River2-img{
+    grid-column: 1/11;
+    width: 100%;   
+    margin-top: -100;
+    grid-row: 1/11;
+}
+#Salmons-river-msg{
+    margin-top: 10px;
+    grid-column: 4/6;
+    grid-row: 1/2;
+}
+.grid-home{
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    grid-template-rows: repeat(10,1fr);
+}
+.Rivers-salmon{
+    grid-column: 2/4;
+    grid-row: 2/3;
+    display: grid;
+}
+.Salmon-img{
+    
+}
