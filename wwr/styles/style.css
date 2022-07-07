@@ -243,7 +243,6 @@ nav {
 #River2-img{
     grid-column: 1/11;
     width: 100%;   
-    margin-top: -100;
     grid-row: 1/-1;
     height: 1300px;
     object-fit: cover;
