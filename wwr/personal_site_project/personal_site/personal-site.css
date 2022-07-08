@@ -176,7 +176,8 @@ h1{
 p{
     width: 400px;
 }
-h1{
+
+h2{
     text-align: center;
     grid-column: 1/3;
 }
