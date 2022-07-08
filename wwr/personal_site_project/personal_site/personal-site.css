@@ -225,6 +225,7 @@ h2{
 /* Page 4- Contact-us */
 .contact-us{
     text-align: center;
+    margin-top: 100px;
 }
 .contact-info p{
     font-size: 1em;
