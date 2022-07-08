@@ -102,21 +102,21 @@ footer p a:hover{
 /* Page 4- Contact-us */
 .contact-us{
     text-align: center;
-  }
-  .contact-info p{
+}
+.contact-info p{
     font-size: 1em;
     margin-top: 100px;
     color: black;
-  }
-  .box{
+}
+.box{
     border-radius: 10px;
-    padding: 25px;
-  }
-  .input-contact{
-    height: 100px;
+    padding: 20px;
+}
+.input-contact{
+    height: 70vh;
     margin-top: 100px;
-  }
-  input[type=text], select, textarea {
+}
+input[type=text], select, textarea {
     width: 100%;
     padding: 12px; 
     border: 1px solid #ccc; 
@@ -125,12 +125,12 @@ footer p a:hover{
     margin-top: 6px; 
     margin-bottom: 16px;
     resize: vertical
-  }
-  input[type=submit] {
+}
+input[type=submit] {
     background-color:rgba(20, 30, 13, .7);
     color: white;
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-  }
+}
