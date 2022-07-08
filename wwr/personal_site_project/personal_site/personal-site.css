@@ -105,6 +105,8 @@ footer p a:hover{
   }
   .contact-info p{
     font-size: 1em;
+    margin-top: 100px;
+    color: black;
   }
   .box{
     border-radius: 10px;
@@ -125,7 +127,7 @@ footer p a:hover{
     resize: vertical
   }
   input[type=submit] {
-    background-color: #04AA6D;
+    background-color:rgba(20, 30, 13, .7);
     color: white;
     padding: 12px 20px;
     border: none;
