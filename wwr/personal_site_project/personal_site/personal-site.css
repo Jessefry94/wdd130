@@ -27,7 +27,7 @@
     margin: 0 auto;
 }
 header {
-    background-color: rgba(20, 30, 13, .7);
+    background-color: #264653;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -61,6 +61,7 @@ h1{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 40px;
+    background-color: #caf0f8;
 }
 .title-section p{
     justify-self: center;
@@ -119,6 +120,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #264653;
 }
 footer h3 {
     color: #d9c2a3;
@@ -145,6 +147,7 @@ h1{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 40px;
+    background-color: #FFDC5E;
 }
 
 .happy{
