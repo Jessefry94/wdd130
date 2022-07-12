@@ -172,10 +172,15 @@ h1{
     font-size: 1.2em;
     text-align: justify;
 }
+#body_workout{
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
 .workout-img{
     width: 400px;
-    grid-column: 1/2;
-    justify-self: right;
+    grid-column: 2/3;
+    grid-row: 1/2;
+    justify-self: left;
 
 }
 .healthy-food{
