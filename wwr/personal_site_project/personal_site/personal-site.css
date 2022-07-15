@@ -31,6 +31,12 @@ header {
     display: grid;
     grid-template-columns: 150px auto;
 }
+body{
+    font-family: var(--paragraph-font);
+}
+h1,h2,h3{
+    font-family: var(--heading-font);
+}
 nav a {
     text-align: center;
     color: #d9c2a3;
